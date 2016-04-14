@@ -13,6 +13,7 @@
 5. A widget is supported to quickly toggle the function.
 6. Notification is supported to quickly toggle function, or directly turn screen off.
 7. When app is running, It does not work(I will add this feature soon).
+
 ### How it works
 Modify Settings in "Auto Screen Settings" app and enable the function
 
